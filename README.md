@@ -1,1 +1,1 @@
-# odin-recipes-2
+# This project is mainly focused in HTML. I'm relearning HTML using the curriculum of The Odin Project. Later on I will revisit this project to add some style with css. For now it will be only HTML.
