@@ -10,9 +10,14 @@ html {
    align-items: center;
 }
 
+#main-title {
+    font-size: 60px;
+}
+
 .text {
     color: white;
     text-align: justify;
+    font-size: large;
 }
 
 a:-webkit-any-link {
