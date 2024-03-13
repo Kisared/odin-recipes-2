@@ -2,6 +2,10 @@ html {
     background-color: black;
 }
 
+#content {
+   display: flex;
+}
+
 .text {
     color: white;
     text-align: justify;
