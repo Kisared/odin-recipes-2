@@ -2,6 +2,12 @@ html {
     background-color: black;
 }
 
+#navigation-bar {
+    background-color: lightslategrey;
+    height: 60px;
+    width: 100%;
+}
+
 #content {
    display: flex;
    flex-direction: column;
