@@ -2,6 +2,7 @@ body {
     margin: 0;
     background-color: rgb(20, 20, 20);
     height: auto;
+    display: flex;
 }
 
 #navigation-bar {
