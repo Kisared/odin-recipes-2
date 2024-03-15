@@ -16,6 +16,7 @@ body {
 #navigation-bar-elements {
     margin: 0;
     list-style-type: none;
+    padding: 0;
 }
 
 #logo {
