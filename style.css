@@ -35,6 +35,7 @@ body {
     color: white;
     text-align: justify;
     font-size: large;
+    font-family: "Trebuchet MS", 'Times New Roman', sans-serif;
 }
 
 a:-webkit-any-link {
