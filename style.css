@@ -18,6 +18,10 @@ body {
     list-style-type: none;
 }
 
+#logo {
+    font-size: 55px;
+}
+
 #content {
    display: flex;
    flex-direction: column;
