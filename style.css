@@ -23,6 +23,7 @@ body {
    flex-direction: column;
    width: 800px;
    align-items: center;
+   background-color: black;
 }
 
 #main-title {
