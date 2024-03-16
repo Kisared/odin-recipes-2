@@ -39,6 +39,7 @@ body {
    align-items: center;
    background-color: black;
    height: 100%;
+   margin: 60px;
 }
 
 #main-title {
