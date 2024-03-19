@@ -38,6 +38,11 @@ body {
     color: rgb(160, 0, 0);
 }
 
+.recipe-image {
+    height: 226px;
+    width: 223px;
+}
+
 #content {
    display: flex;
    flex-direction: column;
